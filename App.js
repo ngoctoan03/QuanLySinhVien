@@ -68,7 +68,7 @@ const styles = StyleSheet.create({
 
   },
   sectionTitle:{
-    fontSize: 24,
+    fontSize: 25,
     fontWeight: 'bold',
     textAlign:'center',
   },
